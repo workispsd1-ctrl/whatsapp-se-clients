@@ -1,0 +1,288 @@
+{
+  "brand": "WhatsApp Se Clients",
+  "businessName": "{{BUSINESS_NAME}}",
+  "supportEmail": "{{SUPPORT_EMAIL}}",
+  "supportWhatsApp": "{{SUPPORT_WHATSAPP}}",
+  "price": 99,
+  "priceLabel": "₹99",
+  "refundDays": 7,
+  "cta": "₹99 mein abhi download karo",
+  "ctaShort": "₹99 mein download karo",
+  "seo": {
+    "title": "WhatsApp Se Clients: local business ke liye 21 din ka WhatsApp system (₹99 PDF)",
+    "description": "21 din ka plan, 50 ready messages aur free WhatsApp Business app se naye local clients lao, price poochne walon ko buyer banao aur purane customers ko wapas bulao. ₹99 PDF, Hindi + English."
+  },
+  "nav": [
+    {
+      "label": "Andar kya hai",
+      "href": "#inside"
+    },
+    {
+      "label": "Kaise chalta hai",
+      "href": "#how"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Local business owners ke liye · PDF guide · Hindi + English",
+    "headlineLines": [
+      "Aapke customers already WhatsApp pe hain.",
+      "Unse business lena seekho,",
+      "15 minute roz."
+    ],
+    "sub": "21 din ka step by step plan, 14 chapters aur 50 ready messages ka bonus pack. Free WhatsApp Business app se, bina ads ke. ₹99 ki PDF, abhi download.",
+    "proof": [
+      "124 page PDF",
+      "Hindi + English aur Hinglish, dono editions",
+      "UPI, card, netbanking",
+      "7 din mein refund"
+    ],
+    "chat": [
+      {
+        "side": "in",
+        "text": "Bhaiya yeh wala kitne ka hai?",
+        "time": "6:12 pm"
+      },
+      {
+        "side": "out",
+        "text": "₹1,800 ji. Delivery free.",
+        "time": "6:13 pm",
+        "seen": true
+      },
+      {
+        "side": "in",
+        "text": "Sochke batata hoon.",
+        "time": "6:40 pm"
+      }
+    ],
+    "chatCaption": "Phir kuch nahi. Yeh roz hota hai, aur iska fix sirf 3 messages hai. Ch 7 mein."
+  },
+  "problem": {
+    "heading": "Teen cheezein jo har dukaan mein roz hoti hain",
+    "items": [
+      {
+        "title": "Price poocha. Seen hua. Gayab.",
+        "body": "Reply gaya, blue tick aaya, phir kuch nahi. Zyaadatar dukaandaar yahin ruk jaate hain. Customer busy tha, confused tha, ya bas bhool gaya. Usse ek wajah chahiye wapas aane ki."
+      },
+      {
+        "title": "Phone mein 800 numbers, business 40 se.",
+        "body": "Purane customers ko mahino se koi message nahi gaya. Diwali ka offer 5 logon ko forward hua. Unhe wapas bulane ka koi fixed tareeka hi nahi hai."
+      },
+      {
+        "title": "Insta ads pe ₹5,000, WhatsApp pe ₹0 ka system.",
+        "body": "Ads se log WhatsApp pe aate hain, par unhe sambhalne ka plan nahi hota. Paisa jaata hai, customer nahi aata. Pehle WhatsApp sahi karo, phir ads."
+      }
+    ],
+    "solution": "Iska fix koi naya app nahi hai. Ek system hai jo free WhatsApp Business app pe chalta hai: lao, convert karo, wapas bulao. Yeh ebook wahi system hai, 21 din mein, roz 15 minute."
+  },
+  "benefits": {
+    "heading": "21 din mein kya set hota hai",
+    "items": [
+      {
+        "title": "Naye local leads, bina ads ke",
+        "body": "Counter pe QR, bill pe wa.me link, Google Business Profile aur status se. Consent ke saath, taaki number safe rahe."
+      },
+      {
+        "title": "Price poochne wala buyer bane",
+        "body": "Day 0, Day 2, Day 7 ka 3 message follow up. Objection scripts ready: mehenga hai, baad mein, kahin aur sasta."
+      },
+      {
+        "title": "Purane customers wapas aayein",
+        "body": "Broadcast lists, mahine ka 4 message rhythm, dues aur appointment reminders. Repeat business, bina bheekh maange."
+      },
+      {
+        "title": "Festival se pehle taiyaari poori",
+        "body": "Diwali, shaadi season, admission season: 3 broadcasts ka template aur saal bhar ka calendar."
+      },
+      {
+        "title": "15 minute roz, koi tool nahi",
+        "body": "Har chapter ke end mein Aaj ka kaam box. Free WhatsApp Business app se. Koi software kharidna nahi."
+      }
+    ]
+  },
+  "tagline": "Log Instagram pe scroll karte hain. Kharidte WhatsApp pe hain. Ab aapka WhatsApp bhi bechega.",
+  "how": {
+    "heading": "Kaise chalta hai",
+    "steps": [
+      {
+        "title": "Download karo",
+        "body": "Payment ke turant baad PDF WhatsApp aur email pe. Phone pe padhne layak: A5 page, badi type, Hindi + English."
+      },
+      {
+        "title": "Roz ek chapter, 15 minute",
+        "body": "Har chapter ek kaam deta hai. Day 1 profile aur catalog, Day 10 follow up sequence, Day 15 pehla broadcast."
+      },
+      {
+        "title": "21 din mein system chalu",
+        "body": "Lao, convert karo, wapas bulao: teeno chal rahe hain, aapke phone se, bina kisi naye app ke."
+      }
+    ]
+  },
+  "inside": {
+    "heading": "Andar kya hai",
+    "sub": "6 parts, 14 chapters, 124 pages. Har chapter ke end mein ek kaam, 15 minute ka.",
+    "parts": [
+      {
+        "label": "Part 1",
+        "days": "Day 1 se 3",
+        "title": "Setup: free app ko dukaan banao",
+        "body": "Business profile, catalog, greeting aur away message, 10 quick replies, labels, wa.me link aur QR."
+      },
+      {
+        "label": "Part 2",
+        "days": "Day 4 se 7",
+        "title": "Lao: naye local leads",
+        "body": "Consent ke saath number lena, counter board, Google profile, Instagram bio, status ka weekly plan, lead magnet ideas."
+      },
+      {
+        "label": "Part 3",
+        "days": "Day 8 se 12",
+        "title": "Convert karo: scripts jo band karte hain",
+        "body": "5 minute rule, price ka jawab, 3 message follow up, 5 objection scripts, close, review aur referral."
+      },
+      {
+        "label": "Part 4",
+        "days": "Day 13 se 17",
+        "title": "Wapas bulao: broadcast system",
+        "body": "256 ki limit, lists, anti ban rules, mahine ka 4 message rhythm, reminders jo repeat business laate hain."
+      },
+      {
+        "label": "Part 5",
+        "days": "Day 18 se 21",
+        "title": "Season: festival aur local calendar",
+        "body": "Saal bhar ka calendar, 3 message festival template, 6 mahine se chup customers ke liye win back."
+      },
+      {
+        "label": "Part 6",
+        "days": "Aage",
+        "title": "Jab free app chhota pad jaaye",
+        "body": "Free app ki limits, 8 sawaal ka self assessment, WhatsApp Business Platform ka sach aur asli cost table."
+      }
+    ],
+    "bonuses": [
+      "50 ready to send messages",
+      "21 din ki checklist",
+      "Weekly content calendar",
+      "Lead tracker",
+      "Quick reply pack"
+    ],
+    "sampleLabel": "Andar ka page aisa dikhta hai",
+    "sampleBubbleTitle": "Ch 7 · Day 2 follow up",
+    "sampleBubble": [
+      "[Naam] ji, aapne [product] poocha tha. Aaj isi design mein ek naya [colour] aaya hai.",
+      "Photo bhej raha hoon.",
+      "Agar is hafte lete hain toh [chhota bonus] bhi laga dunga."
+    ],
+    "sampleKaamTitle": "Aaj ka kaam · Day 10 (15 min)",
+    "sampleKaam": [
+      "Teeno follow up messages ko quick reply banao: /f0, /f2, /f7",
+      "Aaj jin 10 logon ne price poochi thi aur chup hain, unhe Day 0 wala bhejo"
+    ]
+  },
+  "honesty": {
+    "heading": "Yeh kya nahi hai",
+    "items": [
+      {
+        "title": "Raaton raat lakhpati scheme",
+        "body": "Yahan koi hack nahi. Ek kaam karne ka plan hai, roz 15 minute."
+      },
+      {
+        "title": "Bulk spam tool",
+        "body": "5,000 anjaan numbers pe message bhejne se number ban hota hai. Consent, STOP line aur limits ka pura chapter hai."
+      },
+      {
+        "title": "Koi paid app ya software",
+        "body": "Sab kuch free WhatsApp Business app se. Aage ka rasta bhi saaf saaf likha hai, bina dhakka diye."
+      },
+      {
+        "title": "Result ka vaada",
+        "body": "System hamara, mehnat aapki. Jo roz karega, uske liye likha hai."
+      }
+    ],
+    "closing": "Yeh guide un logon ke liye nahi hai jo raaton raat lakhpati banna chahte hain. Yeh unke liye hai jinke paas dukaan hai, customers hain, aur WhatsApp hai, aur jo teeno ko ek saath kaam pe lagana chahte hain."
+  },
+  "testimonials": [],
+  "offer": {
+    "eyebrow": "Launch price",
+    "included": [
+      "Hindi + English edition PDF, 124 pages",
+      "Hinglish edition PDF, 119 pages",
+      "Scripts copy paste file: 128 messages, Hindi aur Hinglish",
+      "5 bonuses: 50 messages, checklist, calendar, tracker, quick replies",
+      "WhatsApp + email pe turant delivery"
+    ],
+    "payment": "UPI, debit aur credit card, netbanking. Razorpay se secure payment.",
+    "refund": "7 din mein pasand na aaye toh poora paisa wapas. Ek message bhejo, koi sawaal nahi."
+  },
+  "faq": [
+    {
+      "q": "PDF kaise milega?",
+      "a": "Payment ke turant baad download link WhatsApp aur email pe aata hai. Phone, tablet ya laptop, kahin bhi khul jaata hai."
+    },
+    {
+      "q": "Hindi mein hai ya English?",
+      "a": "Dono editions milti hain. Ek Hindi + English (Devanagari mein Hindi, English words English mein) aur ek Hinglish (Roman script). Jo aasaan lage, wahi padho."
+    },
+    {
+      "q": "Phone pe padh sakte hain?",
+      "a": "Haan, isi ke liye banaya hai. A5 size ke page, badi type, har script ek bubble mein. Saath mein ek text file hai jisse messages seedha copy paste ho jaate hain."
+    },
+    {
+      "q": "Kaunsa app chahiye?",
+      "a": "Sirf free WhatsApp Business app. Chapter 1 mein normal WhatsApp se migrate karne ka tareeka hai, backup ke saath. Koi aur software nahi."
+    },
+    {
+      "q": "Kya yeh bulk message ya spam tool hai?",
+      "a": "Nahi. Broadcast sirf unhe jaata hai jinhone number save kiya hai aur haan boli hai. Consent, STOP line, frequency aur anti ban rules ka pura chapter hai."
+    },
+    {
+      "q": "Mujhe technical knowledge chahiye?",
+      "a": "Nahi. Agar aap WhatsApp pe message bhej sakte ho, toh yeh sab kar sakte ho. Har step screen ke hisaab se likha hai."
+    },
+    {
+      "q": "Mere business type ke liye hai?",
+      "a": "Coaching, clinic, salon, boutique, mobile shop, broker, travel agent, CA, home baker, Meesho seller: har script ke variants in sab ke liye hain."
+    },
+    {
+      "q": "Payment kaise hoga?",
+      "a": "Razorpay se: UPI, debit aur credit card, netbanking. Ek baar ka payment, koi subscription nahi."
+    },
+    {
+      "q": "Refund milega?",
+      "a": "7 din mein pasand na aaye toh poora paisa wapas. Support WhatsApp pe ek message bhejo."
+    }
+  ],
+  "finalCta": {
+    "heading": "21 din. 15 minute roz. Shuru karo.",
+    "sub": "₹99, ek chai samosa se kam. PDF turant WhatsApp aur email pe."
+  },
+  "footer": {
+    "disclaimer": "Not affiliated with WhatsApp or Meta. WhatsApp is a trademark of its owner.",
+    "links": [
+      {
+        "label": "Refund policy",
+        "href": "/refund-policy"
+      },
+      {
+        "label": "Privacy policy",
+        "href": "/privacy"
+      },
+      {
+        "label": "Terms",
+        "href": "/terms"
+      }
+    ]
+  },
+  "thankYou": {
+    "heading": "Payment mil gaya.",
+    "body": "PDF ka link kuch minute mein WhatsApp aur email pe aa raha hai. Agar 10 minute mein na aaye, support WhatsApp pe ek message bhejo.",
+    "next": [
+      "Jis number se PDF aaya hai, usse save karo.",
+      "Day 0 ka kaam aaj hi karo: apne phone ke customer numbers gino.",
+      "Kal se Day 1. Roz 15 minute."
+    ]
+  }
+}
